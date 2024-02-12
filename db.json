@@ -1,0 +1,42 @@
+{
+  "rooms": [
+    {
+      "name": "Office",
+      "id": 1
+    },
+    {
+      "name": "Bedroom",
+      "id": 2
+    },
+    {
+      "name": "Kitchen",
+      "id": 3
+    }
+  ],
+  "objects": [
+    {
+      "name": "Thing",
+      "id": 1
+    },
+    {
+      "roomId": 2,
+      "name": "King Size Bed",
+      "id": 2
+    },
+    {
+      "roomId": 3,
+      "name": "Cooking Pot 20cm",
+      "id": 3
+    },
+    {
+      "roomId": 3,
+      "name": "Cooking Pot 16cm",
+      "id": 4
+    },
+    {
+      "roomId": 3,
+      "name": "Cooking Pot 8cm",
+      "id": 5
+    }
+  ]
+}
